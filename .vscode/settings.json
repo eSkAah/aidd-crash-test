@@ -1,0 +1,7 @@
+{
+  "github.copilot.chat.useProjectTemplates": false,
+  "github.copilot.chat.completionContext.typescript.mode": "on",
+  "chat.instructionsFilesLocations": {
+    ".github/instructions": true
+  }
+}
